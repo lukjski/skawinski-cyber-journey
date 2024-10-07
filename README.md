@@ -5,6 +5,7 @@
 - Showcase programming and scripting projects that I've completed (once I get to that level)
 - Link to a YouTube channel where I discuss getting into the industry as well as my time in the USAF Reserves
 
+
 ## Skills/Related Projects
 | Skill | Related Project |
 |-------|-----------------|
@@ -12,6 +13,10 @@
 | Vulnerabilitiy Knowledge | <a href="https://github.com/GordonITGateway/DVWA-Lab/tree/main"> DVWA Lab </a> |
 |  |  |
 |  |  |
+
+
+## Sharing The Love
+<a href= https://github.com/GordonITGateway/Studying> Resources for studying </a>
 
 
 ## Tools
