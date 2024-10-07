@@ -16,7 +16,7 @@
 
 
 ## Sharing The Love
-<a href= https://github.com/GordonITGateway/Studying> Resources for studying </a>
+### <a href= https://github.com/GordonITGateway/Studying> Resources for studying </a>
 
 
 ## Tools
