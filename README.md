@@ -29,4 +29,5 @@
 
 ## All Projects
 <a href="https://github.com/GordonITGateway/Fuzzing-Lab/tree/main"> Fuzzing Lab </a>
-<a href="https://github.com/GordonITGateway/DVWA-Lab/tree/main"> DVWA Lab </a> 
+
+<a href="https://github.com/GordonITGateway/DVWA-Lab/tree/main"> DVWA Lab </a>
