@@ -18,7 +18,7 @@
 ### <a href= https://github.com/GordonITGateway/Studying> Resources for studying </a>
 
 
-## Tools
+## Tools I Use
 ### Security
 <div>
   <img src="https://img.shields.io/badge/-Burp Suite-FF7139?&style=for-the-badge&logo=burp-suite&logoColor=white" />
