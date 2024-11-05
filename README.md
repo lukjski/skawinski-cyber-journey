@@ -11,7 +11,6 @@
 | Software Assessment | <a href="https://github.com/GordonITGateway/Fuzzing-Lab/tree/main"> Fuzzing Lab </a> |
 | Vulnerabilitiy Knowledge | <a href="https://github.com/GordonITGateway/DVWA-Lab/tree/main"> DVWA Lab </a> |
 |  |  |
-|  |  |
 
 
 ## Sharing The Love
