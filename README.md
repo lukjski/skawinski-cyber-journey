@@ -5,6 +5,9 @@
 - Crosstrain to 1B4 in the USAF
 - Build cyber skills through online resources
 
+
+(Shoutout to https://github.com/GordonITGateway for the inspiration and the layout)
+
 ## Projects
 Piehole.
 
