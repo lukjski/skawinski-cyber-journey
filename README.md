@@ -1,36 +1,32 @@
-# Hey there, I'm GordonITGateway! <a href="https://www.linkedin.com/in/%F0%9F%9B%A1%EF%B8%8Fkyle-gordon-wylie-670b1318b/"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-### I'm a Network Administrator in the DC area, who also serves as a reservist for the USAF. Welcome to my portfolio! In the future I have a few goals for this page:
-- Showcase labs and trainings that I've worked on while studying for certifications
-- Describe my experience gaining IT certs, which study techniques I used, and which skills transfer to my jobs
-- Showcase programming and scripting projects that I've completed (once I get to that level)
+# Hi there, I'm Lukasz Skawinski! <a href="https://www.linkedin.com/in/lukjski/"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+### I'm a Cyber Security Threat Hunter and Incident Responder for Eversource Energy and a Cyber Analyst for the USAF. The goal of this page is to track my cyber career and provide for transparency for anyone interested in working together. These are my current goals.
+- Attend WGU and get enough credits (70) and transfer to SANS
+- Finish BA and MA at SANS
+- Crosstrain to 1B4 in the USAF
+- Build cyber skills through online resources
 
+## Projects
+Piehole.
 
-## Skills/Related Projects
-| Skill | Related Project |
-|-------|-----------------|
-| Software Assessment | <a href="https://github.com/GordonITGateway/Fuzzing-Lab/tree/main"> Fuzzing Lab </a> |
-| Vulnerabilitiy Knowledge | <a href="https://github.com/GordonITGateway/DVWA-Lab/tree/main"> DVWA Lab </a> |
-|  |  |
+## Security
+Tool list pending.
 
+## Networking
+My first role and my foundation. 
 
-## Sharing The Love
-### <a href= https://github.com/GordonITGateway/Studying> Resources for studying </a>
+## Blue Team
+My role and how it's evolved. 
 
+## Red Team
+Missions and my role. 
 
-## Tools I Use
-### Security
-<div>
-  <img src="https://img.shields.io/badge/-Burp Suite-FF7139?&style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Security Onion-05122A?&style=for-the-badge&logo=security-onion&logoColor=white" />
-</div>
+## Operational Technology (OT)
+Classes and experience.
 
-### Network
-<div>
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-## All Projects
-<a href="https://github.com/GordonITGateway/Fuzzing-Lab/tree/main"> Fuzzing Lab </a>
-
-<a href="https://github.com/GordonITGateway/DVWA-Lab/tree/main"> DVWA Lab </a>
+## Tools
+### Crowdstrike
+Endpoint security.
+### Azure
+Cloud environment.
+### Velociraptor
+Forensics beta testing.
