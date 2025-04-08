@@ -8,9 +8,6 @@
 
 (Shoutout to https://github.com/GordonITGateway for the inspiration and the layout)
 
-## How to make $100k annualy in under 4 years
-
-
 ## Projects
 Piehole.
 
